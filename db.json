@@ -1,0 +1,24 @@
+{
+"products":[
+  {"id":1,"name":"Phalacrocorax carbo","category":"Pink"},
+  {"id":2,"name":"Aepyceros mylampus","category":"Purple"},
+  {"id":3,"name":"Vanellus armatus","category":"Purple"},
+  {"id":4,"name":"Psophia viridis","category":"Turquoise"},
+  {"id":5,"name":"Cracticus nigroagularis","category":"Goldenrod"},
+  {"id":6,"name":"Pycnonotus nigricans","category":"Puce"},
+  {"id":7,"name":"Tiliqua scincoides","category":"Maroon"},
+  {"id":8,"name":"Petaurus breviceps","category":"Blue"},
+  {"id":9,"name":"Acrobates pygmaeus","category":"Teal"},
+  {"id":10,"name":"Herpestes javanicus","category":"Blue"},
+  {"id":11,"name":"Perameles nasuta","category":"Crimson"},
+  {"id":12,"name":"Tachyglossus aculeatus","category":"Green"},
+  {"id":13,"name":"Callipepla gambelii","category":"Yellow"},
+  {"id":14,"name":"Pavo cristatus","category":"Maroon"},
+  {"id":15,"name":"Paradoxurus hermaphroditus","category":"Teal"},
+  {"id":16,"name":"Cyrtodactylus louisiadensis","category":"Blue"},
+  {"id":17,"name":"Phoca vitulina","category":"Yellow"},
+  {"id":18,"name":"Crotalus cerastes","category":"Puce"},
+  {"id":19,"name":"Trichosurus vulpecula","category":"Khaki"},
+  {"id":20,"name":"Dasypus novemcinctus","category":"Purple"}
+  ]
+}
